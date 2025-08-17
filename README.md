@@ -1,5 +1,4 @@
 # MeetingSchedulerApi
-# Meeting Scheduler API
 
 RESTful API for automated meeting scheduling with conflict detection and optimal time slot finding.
 
